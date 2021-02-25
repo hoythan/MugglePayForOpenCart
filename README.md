@@ -47,5 +47,5 @@ This project is licensed under the Apache 2.0 License
 
 ## Changelog
 
-## 1.0.1 ##
+## 1.0.0 ##
 * MugglePay For OpenCart
